@@ -116,7 +116,7 @@ The implementation includes:
 
 ## Dataset
 
-Trained on the OPUS Books dataset, which contains parallel English-Italian text from books.
+Trained on the OPUS Books dataset, which contains parallel English-Deutsch text from books.
 
 ## License
 
