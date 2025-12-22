@@ -5,7 +5,7 @@ A complete implementation of the Transformer architecture for neural machine tra
 ## Features
 
 - **Full Transformer Implementation**: Encoder-decoder architecture with multi-head self-attention and cross-attention mechanisms
-- **English to Italian Translation**: Trained on the OPUS Books dataset
+- **English to Deutsch Translation**: Trained on the OPUS Books dataset
 - **Decoding Strategies**: Greedy decoding and beam search for inference
 - **Attention Visualization**: Interactive visualizations of attention weights using Altair
 - **Flexible Training**: Support for training on Google Colab and local machines
