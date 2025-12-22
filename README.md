@@ -1,6 +1,6 @@
 # PyTorch Transformer for Machine Translation
 
-A complete implementation of the Transformer architecture for neural machine translation from English to Italian, based on the "Attention is All You Need" paper by Vaswani et al.
+A complete implementation of the Transformer architecture for neural machine translation from English to German, based on the "Attention is All You Need" paper by Vaswani et al.
 
 ## Features
 
