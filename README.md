@@ -94,7 +94,7 @@ Key parameters in `config.py`:
 - `d_model`: 512
 - `datasource`: 'opus_books'
 - `lang_src`: "en"
-- `lang_tgt`: "it"
+- `lang_tgt`: "de"
 
 ## Requirements
 
